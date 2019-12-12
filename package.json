@@ -1,0 +1,52 @@
+{
+  "name": "notification_front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@websanova/vue-auth": "^2.21.14-beta",
+    "axios": "^0.19.0",
+    "canvg-browser": "^1.0.0",
+    "core-js": "^3.4.3",
+    "file-saver": "^2.0.2",
+    "material-design-icons": "^3.0.1",
+    "typeface-roboto": "0.0.75",
+    "vue": "^2.6.10",
+    "vue-axios": "^2.1.5",
+    "vue-google-charts": "^0.3.2",
+    "vue-headful": "^2.0.1",
+    "vue-lodash": "^2.0.2",
+    "vue-material": "^1.0.0-beta-11",
+    "vue-moment": "^4.0.0",
+    "vue-router": "^3.1.3",
+    "vuebar": "0.0.20",
+    "vuelidate": "^0.7.4",
+    "vuetify": "^2.1.0",
+    "vuex": "^3.1.2",
+    "xlsx": "^0.15.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-eslint": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "@vue/eslint-config-prettier": "^5.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-vue": "^5.0.0",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "prettier": "^1.19.1",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "vue-cli-plugin-vuetify": "^2.0.2",
+    "vue-template-compiler": "^2.6.10",
+    "vuetify-loader": "^1.3.0"
+  }
+}
