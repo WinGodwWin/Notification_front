@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@websanova/vue-auth": "^2.21.14-beta",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "canvg-browser": "^1.0.0",
     "core-js": "^3.4.3",
     "file-saver": "^2.0.2",
